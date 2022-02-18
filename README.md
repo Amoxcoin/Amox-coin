@@ -1,2 +1,2 @@
-# Amox-coin
+# Amox-token
 Amox coin
