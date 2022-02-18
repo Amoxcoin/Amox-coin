@@ -1,2 +1,2 @@
 # Amox-token
-Amox  token
+Amox  token 
